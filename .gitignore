@@ -1,0 +1,5 @@
+
+# Ignore the report latex code and the the assignment description
+
+report.tex
+**.pdf
